@@ -1,0 +1,27 @@
+{
+  "revision": 1794409818454,
+  "lastUpdated": "2026-11-11T15:10:18.454Z",
+  "users": [],
+  "staff": [],
+  "orders": [],
+  "expenses": [],
+  "deliveries": [],
+  "customers": [],
+  "company": {
+    "name": "NEO FIX ELETRÔNICA & REFRIGERAÇÃO",
+    "slogan": "Especialistas em Geladeiras, Máquinas de Lavar e Lava & Seca",
+    "cnpj": "38.921.455/0001-90",
+    "phone": "(11) 98765-4321",
+    "whatsapp": "5511987654321",
+    "email": "contato@neofixeletro.com.br",
+    "cep": "01310-200",
+    "street": "Avenida Paulista",
+    "number": "1842",
+    "neighborhood": "Bela Vista",
+    "city": "São Paulo",
+    "state": "SP",
+    "businessHours": "Segunda a Sexta: 08:00 às 18:30 | Sábado: 08:00 às 14:00",
+    "logoUrl": "",
+    "warrantyTerms": "1. A garantia cobre exclusivamente a peça trocada e a mão de obra especificada nesta Ordem de Serviço.\n2. O rompimento do lacre de garantia, sobretensão elétrica atmosférica (raios), infestações de insetos ou mau uso invalidam a garantia.\n3. Em caso de defeito dentro do prazo, entre em contato imediatamente com nossa central para agendamento técnico prioritário.\n4. Conserve este certificado digital ou impresso para comprovação de vigência."
+  }
+}
